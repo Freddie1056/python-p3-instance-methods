@@ -235,3 +235,4 @@ do.
 - [Method Objects](https://docs.python.org/3/tutorial/classes.html#method-objects)
 
 [python docs]: https://docs.python.org/3/
+# python-p3-instance-methods
